@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Projekt">
+    <output-path>$PROJECT_DIR$/out/artifacts/Projekt</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="C:\Users\Vanessa\IdeaProjects\Projekt\src\endlessRunner.Main.java" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Projekt.jar">
+        <element id="module-output" name="Projekt" />
+      </element>
+    </root>
+  </artifact>
+</component>
